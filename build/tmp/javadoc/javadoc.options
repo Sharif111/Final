@@ -1,0 +1,6 @@
+-classpath 'C:\\Users\\User\\Downloads\\Programs\\IntroToUnitTesting\\build\\classes\\java\\main;C:\\Users\\User\\Downloads\\Programs\\IntroToUnitTesting\\build\\resources\\main'
+-d 'C:\\Users\\User\\Downloads\\Programs\\IntroToUnitTesting\\build\\docs\\javadoc'
+-doctitle 'IntroToUnitTesting API'
+-quiet 
+-windowtitle 'IntroToUnitTesting API'
+'C:\\Users\\User\\Downloads\\Programs\\IntroToUnitTesting\\src\\main\\java\\Demo.java'
